@@ -1,0 +1,29 @@
+
+.library{
+    width:75rem;
+    height:70rem;
+}
+
+.img{
+    height:75px;
+    width: 75px;
+    border-radius: 0.5rem;
+}
+
+table{
+    border-spacing:1.5rem 1rem;
+}
+
+td{
+    border-spacing:1rem;
+}
+
+td p{
+    text-align: left;
+}
+
+thead .p{
+    text-align: left;
+}
+
+
